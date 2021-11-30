@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "名台詞/FATE/天之杯詠唱.md",
+            "file": "名台詞/死神/死神目錄.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "名台詞/FATE/天之杯詠唱.md",
+                "file": "名台詞/死神/死神目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "186ffd1be1175e6a",
   "lastOpenFiles": [
+    "名台詞/死神/死神目錄.md",
+    "名台詞/目錄.md",
     "名台詞/FATE/天之杯詠唱.md",
     "名台詞/FATE/FGO.md",
     "名台詞/FATE/FATE目錄.md",
@@ -95,8 +97,6 @@
     "名台詞/JOJO/吉良及影自我介紹.md",
     "名台詞/JOJO/世界真實的能力.md",
     "名台詞/JOJO/DIO雜.md",
-    "名台詞/JOJO/JOJO目錄.md",
-    "名台詞/JOJO/大總統名言.md",
-    "名台詞/灌籃高手/灌籃高手.md"
+    "名台詞/JOJO/JOJO目錄.md"
   ]
 }
