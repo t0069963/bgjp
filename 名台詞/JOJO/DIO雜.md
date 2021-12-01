@@ -34,3 +34,16 @@ Jojo，人類的能力是有限的，而我在我短暫的一生中學到的是�
 是我迪奧
 
 ---
+
+> <div><ruby><rb>我</rb><rt>わ</rt></ruby>がナチスの<ruby><rb>科学</rb><rt>かがく</rt></ruby><ruby><rb>力</rb><rt>りょく</rt></ruby>はァァァァァァァアアア<ruby><rb>世界一</rb><rt>せかいいち</rt></ruby>ィィィイイイイ</div>     
+
+我纳粹的科学力量是世界上最好的。
+
+---
+
+> <div>てめーの<ruby><rb>敗因</rb><rt>はいいん</rt></ruby>は…たったひとつだぜ…<ruby><rb>DIO</rb><rt>でぃお</rt></ruby>…たったひとつの<ruby><rb>単純</rb><rt>たんじゅん</rt></ruby>な<ruby><rb>答</rb><rt>こた</rt></ruby>えだ…てめーは<ruby><rb>俺</rb><rt>おれ</rt></ruby>を<ruby><rb>怒</rb><rt>おこ</rt></ruby>らせた</div><div></div>
+
+你失敗的原因_只有一個_，那就是你把我惹怒了
+
+---
+
