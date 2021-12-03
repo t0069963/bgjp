@@ -1,4 +1,3 @@
-[[目錄]]
 > <div><ruby><rb>勝利</rb><rt>しょうり</rt></ruby>の<ruby><rb>法則</rb><rt>ほうそく</rt></ruby>は<ruby><rb>決</rb><rt>き</rt></ruby>まった</div>
 
 勝利的法則已然確認
