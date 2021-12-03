@@ -5,8 +5,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+	<script src=https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js></script>
+
+<script src="https://cdn.bootcss.com/marked/0.3.6/marked.min.js"></script>
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css">
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script src="./marked.js"></script>
+
+
 </head>
 <body>
      <a href="./假面騎士/假面騎士目錄.md">假面騎士目錄目錄</a><br>
+	 <iframe frameborder="0" height="800" marginheight="0" marginwidth="0" scrolling="yes" src="./假面騎士/假面騎士目錄.md" width="650"></iframe>   
+	 <div id="content">
+<script>
+$(function(){
+        $.ajax({
+            type:"get",
+            url:"./假面騎士/假面騎士目錄.md",
+            dataType:"html",
+            success:function(res){
+            $("#content").append(marked(res));
+            }
+        })
+    })
+
+
+</script>
 </body>
 </html>
